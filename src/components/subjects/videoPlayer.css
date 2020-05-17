@@ -1,0 +1,13 @@
+.video-container{
+    display: flex;
+    justify-content: flex-start;
+  }
+
+h5 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+h6 {
+    text-decoration: underline;
+}
